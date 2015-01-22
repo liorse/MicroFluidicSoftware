@@ -42,7 +42,7 @@
 			<Item Name="RampStateMachine.vi" Type="VI" URL="../RampStateMachine.vi"/>
 			<Item Name="NewExperimentDialog.vi" Type="VI" URL="../NewExperimentDialog.vi"/>
 		</Item>
-		<Item Name="LinkamStageController.vi" Type="VI" URL="../LinkamStageController.vi"/>
+		<Item Name="MicrofluidicMain.vi" Type="VI" URL="../MicrofluidicMain.vi"/>
 		<Item Name="RampProgramModel.lvclass" Type="LVClass" URL="../RampProgramModel/RampProgramModel.lvclass"/>
 		<Item Name="DecorateTable.vi" Type="VI" URL="../DecorateTable.vi"/>
 		<Item Name="AVI recoder state.ctl" Type="VI" URL="../AVI recoder state.ctl"/>
@@ -176,7 +176,7 @@
 				<Property Name="Source[0].itemID" Type="Str">{B5FBADB4-0196-4091-9EDE-F917478C44E7}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/LinkamStageController.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/MicrofluidicMain.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
